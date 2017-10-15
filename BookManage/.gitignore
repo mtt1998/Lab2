@@ -3,3 +3,5 @@
 /WebContent/bootstrap
 /WebContent/bootstrapValidator
 /WebContent/WEB-INF/lib
+/.project
+/.classpath
